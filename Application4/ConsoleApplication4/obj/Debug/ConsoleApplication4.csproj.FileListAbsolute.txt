@@ -1,0 +1,9 @@
+D:\桌面\可视化程序\C#语言基础\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\桌面\可视化程序\C#语言基础\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\桌面\可视化程序\C#语言基础\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\桌面\可视化程序\C#语言基础\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\桌面\可视化程序\C#语言基础\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\桌面\可视化程序\C#语言基础\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\桌面\可视化程序\C#语言基础\Application4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\桌面\可视化程序\C#语言基础\Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\桌面\可视化程序\C#语言基础\Application4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
