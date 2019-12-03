@@ -1,0 +1,9 @@
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.exe.config
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.exe
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.pdb
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.csprojResolveAssemblyReference.cache
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.Form1.resources
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.Properties.Resources.resources
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.csproj.GenerateResource.Cache
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.exe
+D:\桌面\可视化程序\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.pdb
