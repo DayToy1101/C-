@@ -1,0 +1,9 @@
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\bin\Debug\ProcessDelegate.exe.config
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\bin\Debug\ProcessDelegate.exe
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\bin\Debug\ProcessDelegate.pdb
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\obj\Debug\ProcessDelegate.csprojResolveAssemblyReference.cache
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\obj\Debug\ProcessDelegate.Form1.resources
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\obj\Debug\ProcessDelegate.Properties.Resources.resources
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\obj\Debug\ProcessDelegate.csproj.GenerateResource.Cache
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\obj\Debug\ProcessDelegate.exe
+D:\桌面\可视化程序\ProcessDelegate\ProcessDelegate\obj\Debug\ProcessDelegate.pdb
