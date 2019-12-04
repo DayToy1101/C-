@@ -1,0 +1,6 @@
+D:\桌面\可视化程序\C#作业\2_5_1\2_5_1\bin\Debug\2_5_1.exe.config
+D:\桌面\可视化程序\C#作业\2_5_1\2_5_1\bin\Debug\2_5_1.exe
+D:\桌面\可视化程序\C#作业\2_5_1\2_5_1\bin\Debug\2_5_1.pdb
+D:\桌面\可视化程序\C#作业\2_5_1\2_5_1\obj\Debug\2_5_1.csprojResolveAssemblyReference.cache
+D:\桌面\可视化程序\C#作业\2_5_1\2_5_1\obj\Debug\2_5_1.exe
+D:\桌面\可视化程序\C#作业\2_5_1\2_5_1\obj\Debug\2_5_1.pdb
