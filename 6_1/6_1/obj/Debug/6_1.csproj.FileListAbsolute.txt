@@ -1,0 +1,9 @@
+D:\桌面\可视化程序\C#线程技术\6_1\6_1\bin\Debug\6_1.exe.config
+D:\桌面\可视化程序\C#线程技术\6_1\6_1\bin\Debug\6_1.exe
+D:\桌面\可视化程序\C#线程技术\6_1\6_1\bin\Debug\6_1.pdb
+D:\桌面\可视化程序\C#线程技术\6_1\6_1\obj\Debug\6_1.csprojResolveAssemblyReference.cache
+D:\桌面\可视化程序\C#线程技术\6_1\6_1\obj\Debug\6_1.exe
+D:\桌面\可视化程序\C#线程技术\6_1\6_1\obj\Debug\6_1.pdb
+D:\桌面\可视化程序\C#实验\C#线程技术\6_1\6_1\bin\Debug\6_1.exe.config
+D:\桌面\可视化程序\C#实验\C#线程技术\6_1\6_1\obj\Debug\6_1.exe
+D:\桌面\可视化程序\C#实验\C#线程技术\6_1\6_1\obj\Debug\6_1.pdb
